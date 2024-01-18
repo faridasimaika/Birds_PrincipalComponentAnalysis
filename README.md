@@ -10,8 +10,7 @@ Welcome to the Birds' Bone Dataset Analysis repository!. The project explores th
 
 - [Data Description](https://github.com/faridasimaika/Birds_PrincipalComponentAnalysis/blob/main/DataDescription.docx): This file provides a detailed description of the Birds' Bone dataset, including information on the 11 distinct bone measurements and the characteristics of the 420 birds.
 
-### Report Findings
 
-- **[`analysis_report.pdf`](Report_Findings/analysis_report.pdf)**: A comprehensive report summarizing the findings of the analysis, highlighting key insights obtained through the application of PCA on the Birds' Bone dataset.
+- **[Report Findings](https://github.com/faridasimaika/Birds_PrincipalComponentAnalysis/blob/main/Multivariate%20Project%204.pdf)**: A comprehensive report summarizing the findings of the analysis, highlighting key insights obtained through the application of PCA on the Birds' Bone dataset.
 
 
