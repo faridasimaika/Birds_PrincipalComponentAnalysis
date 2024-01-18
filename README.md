@@ -7,9 +7,8 @@ Welcome to the Birds' Bone Dataset Analysis repository!. The project explores th
 
 - **[`data_preprocessing_PCA.R`](R_code/data_preprocessing_PCA.R)**: This R code file encompasses the data preprocessing steps, ensuring the dataset is ready for analysis.
 
-### Data Description
 
-- **[`birds_bone_dataset_description.md`](Data_Description/birds_bone_dataset_description.md)**: This file provides a detailed description of the Birds' Bone dataset, including information on the 11 distinct bone measurements and the characteristics of the 420 birds.
+- [Data Description](https://github.com/faridasimaika/Birds_PrincipalComponentAnalysis/blob/main/DataDescription.docx): This file provides a detailed description of the Birds' Bone dataset, including information on the 11 distinct bone measurements and the characteristics of the 420 birds.
 
 ### Report Findings
 
